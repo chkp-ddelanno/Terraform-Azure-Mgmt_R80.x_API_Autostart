@@ -8,3 +8,5 @@ Terraform example for R80.30 Management creation with API enabled from any IP ad
 **Use additional API calls to limit the source API to known GUI client IP addresses to limit access to the API.**
 
 Update to more complex credentials for production use!
+
+Upgraded to terrraform >0.12

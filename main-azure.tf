@@ -1,1 +1,4 @@
-provider "azurerm" {version = "=1.35.0"}
+provider "azurerm" {
+  version = "=1.35.0"
+}
+
